@@ -1,0 +1,42 @@
+#! /bin/sh
+# _                                          
+#| |                                         
+#| |__  ___ _ ____      ___ __ ___  _ __ ___ 
+#| '_ \/ __| '_ \ \ /\ / / '_ ` _ \| '__/ __|
+#| |_) \__ \ |_) \ V  V /| | | | | | | | (__ 
+#|_.__/|___/ .__/ \_/\_/ |_| |_| |_|_|  \___|
+#          | |                               
+#          |_| part of github.com/nockey/Dots 
+
+# auto start
+
+sxhkd &
+
+picom &
+
+feh --bg-scale ~/Pictures/wall.png &
+
+xrdb ~/.xresources &
+
+polybar a &
+
+# configuration
+
+xsetroot -cursor_name left_ptr &
+
+bspc monitor -d I II III IV V
+
+bspc config border_width         3
+bspc config window_gap          12
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+. "$(HOME)/.cache/wal/colors.sh"
+
+bspc config normal_border_color "$color1"
+bspc cofnig active_border_color "$color2"
+bspc config forcused_border_coler "$color15"
+bspc config presel_feedback_color "$color1"
+
