@@ -1,5 +1,5 @@
 # LaptopDots
-My linux dot files for my t460s
+My linux/bspwm dot files for t460s
 
 ![test](https://github.com/NotPocky/LaptopDots/blob/master/showcase/2020-06-12-103320_1920x1080_scrot.png)
 
