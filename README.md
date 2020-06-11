@@ -1,7 +1,7 @@
 # LaptopDots
 My linux dot files for my t460s
 
-https://github.com/NotPocky/LaptopDots/blob/master/showcase/2020-06-12-103320_1920x1080_scrot.png
+(https://github.com/NotPocky/LaptopDots/blob/master/showcase/2020-06-12-103320_1920x1080_scrot.png)
 
 .xresources and font sizes in general will be quite large. this is because i have trouble reading default dpi on the screen at 1080p in 13in its an easy fix if you want to use something similar for a desktop or larger screen But i highly recomend doing it yourself
 
