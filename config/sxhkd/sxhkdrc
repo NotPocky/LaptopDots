@@ -44,7 +44,10 @@ super + d
 	rofi -font "Roboto-Regular 16" -theme term -show drun
 
 super + s
-	scrot '%Y-%m-%d_$wx$h_scrot.png'1 -e 'mv $f ~/Pictures/shots/'
+	maim ~/Pictures/shots/$(date +%sshot).png
+	
+super + shift + s
+	maim -s | xclip -selection clipboard -t image/png
 
 super + l
 	betterlockscreen -l
