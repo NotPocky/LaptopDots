@@ -20,9 +20,12 @@
 * folders:
  * ~/Pictures/shots
  * ~/Pictures/wallpapers
+* GTK things:
+ * [Shades of gray](https://www.gnome-look.org/p/1244058/)
+ * [papirus](https://www.gnome-look.org/p/1166289/)
  
 ## Recomended tools
- * ranger
+ * ranger [alnj's ranger fork](https://github.com/alnj/ranger)
  * htop
  * neofetch ( i do have a config for this but generally better idea to take a look at it yourself )
 
