@@ -12,7 +12,7 @@ Requirements:
  * st (any terminal works but if you want mine specifcally ill make another repo its just very mild edits on luke smiths build)
  * feh
  * polybar
-  * picom fork: [fs8trg picom fork](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
+ * picom fork: [fs8trg picom fork](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
  * fonts:
   * font awesome 5 
   * roboto regular 
