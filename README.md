@@ -1,9 +1,9 @@
 # LaptopDots
-My linux/bspwm dot files for t460s
+## My linux/bspwm dot files for t460s
 
 ![screenshot](https://github.com/NotPocky/LaptopDots/blob/master/showcase/2020-06-12-103320_1920x1080_scrot.png)
 
-Requirements:
+## Requirements
  * bspwm
  * sxhkd
  * rofi
@@ -21,14 +21,14 @@ Requirements:
   * ~/Pictures/shots
   * ~/Pictures/wallpapers
  
-Recomended tools:
+## Recomended tools
  * ranger
  * htop
  * neofetch ( i do have a config for this but generally better idea to take a look at it yourself )
 
-Wallpapers: [gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing)
+## Wallpapers [gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing)
 
-todo
+## todo
 * rofi:
   * Improve transparency ( it just goes red at the moment without taking definded color ) 
   * Clean up and simplify boarders are text
