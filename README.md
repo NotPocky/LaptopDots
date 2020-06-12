@@ -26,7 +26,9 @@
  * htop
  * neofetch ( i do have a config for this but generally better idea to take a look at it yourself )
 
-## Wallpapers [gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing)
+## Wallpapers 
+[gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing)
+[unsplash](https://unsplash.com/)
 
 ## todo
 * rofi:
