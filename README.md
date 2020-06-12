@@ -1,7 +1,7 @@
 # LaptopDots
 ## My linux/bspwm dot files for t460s
 
-![screenshot](https://github.com/NotPocky/LaptopDots/blob/master/showcase/2020-06-12-103320_1920x1080_scrot.png)
+![screenshot](https://raw.githubusercontent.com/NotPocky/LaptopDots/master/showcase/1591927061shot.png)
 
 ## Requirements
 * bspwm
