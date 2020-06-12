@@ -4,22 +4,22 @@
 ![screenshot](https://github.com/NotPocky/LaptopDots/blob/master/showcase/2020-06-12-103320_1920x1080_scrot.png)
 
 ## Requirements
- * bspwm
- * sxhkd
- * rofi
- * betterlockscreen
- * maim
- * st (any terminal works but if you want mine specifcally ill make another repo its just very mild edits on luke smiths build)
- * feh
- * polybar
- * picom fork: [fs8trg picom fork](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
- * fonts:
-  * font awesome 5 
-  * roboto regular 
-  * roboto mono
- * folders:
-  * ~/Pictures/shots
-  * ~/Pictures/wallpapers
+* bspwm
+* sxhkd
+* rofi
+* betterlockscreen
+* maim
+* st (any terminal works but if you want mine specifcally ill make another repo its just very mild edits on luke smiths build)
+* feh
+* polybar
+* picom fork: [fs8trg picom fork](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
+* fonts:
+ * font awesome 5 
+ * roboto regular 
+ * roboto mono
+* folders:
+ * ~/Pictures/shots
+ * ~/Pictures/wallpapers
  
 ## Recomended tools
  * ranger
