@@ -14,15 +14,15 @@
 * polybar
 * picom fork: [fs8trg picom fork](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
 * fonts:
- * font awesome 5 
- * roboto regular 
- * roboto mono
+  * font awesome 5 
+  * roboto regular 
+  * roboto mono
 * folders:
- * ~/Pictures/shots
- * ~/Pictures/wallpapers
+  * ~/Pictures/shots
+  * ~/Pictures/wallpapers
 * GTK things:
- * [Shades of gray](https://www.gnome-look.org/p/1244058/)
- * [papirus](https://www.gnome-look.org/p/1166289/)
+  * [Shades of gray](https://www.gnome-look.org/p/1244058/)
+  * [papirus](https://www.gnome-look.org/p/1166289/)
  
 ## Recomended tools
  * ranger [alnj's ranger fork](https://github.com/alnj/ranger)
