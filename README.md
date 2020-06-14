@@ -3,40 +3,31 @@
 
 ![screenshot](https://raw.githubusercontent.com/NotPocky/LaptopDots/master/showcase/1591927061shot.png)
 
-## Requirements
-* bspwm
-* sxhkd
-* rofi
-* betterlockscreen
-* maim
-* st (any terminal works but if you want mine specifcally ill make another repo its just very mild edits on luke smiths build the bulk of the config there in picom and .xresources)
-* feh
-* polybar
-* picom fork: [fs8trg picom fork](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
+### Requirements
+* `bspwm`
+* `sxhkd`
+* `rofi`
+* `betterlockscreen`
+* `maim`
+* `st`
+* `feh`
+* `polybar`
+* [`fs8trg picom fork`](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
 * fonts:
-  * font awesome 5 
-  * roboto regular 
-  * roboto mono
+  * `font awesome 5` 
+  * `roboto regular` 
+  * `roboto mono`
 * folders:
-  * ~/Pictures/shots
-  * ~/Pictures/wallpapers
+  * `~/Pictures/shots`
+  * `~/Pictures/wallpapers` see ## walpapers
 * GTK things:
-  * [Shades of gray](https://www.gnome-look.org/p/1244058/)
-  * [papirus](https://www.gnome-look.org/p/1166289/)
+  * [`Shades of gray`](https://www.gnome-look.org/p/1244058/)
+  * [`papirus`](https://www.gnome-look.org/p/1166289/)
  
-## Recomended tools
- * ranger [alnj's ranger fork](https://github.com/alnj/ranger)
- * htop
- * neofetch ( i do have a config for this but generally better idea to take a look at it yourself )
-
-## Wallpapers 
+### Recomended tools
+ * [`alnj's ranger fork`](https://github.com/alnj/ranger)
+ * `htop`
+ * `neofetch` 
+ 
+### Wallpapers 
 [gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing)
-[unsplash](https://unsplash.com/)
-
-## todo
-* rofi:
-  * Improve transparency ( it just goes red at the moment without taking definded color ) 
-  * Clean up and simplify boarders are text
-* Make bspwmrc restore the last feh --bg-fill not a set file path
-* Improve wallpapers names / directorys
-
