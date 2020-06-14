@@ -8,7 +8,7 @@ Xft.dpi: 120
 
 ! Black + DarkGrey
 *color0:  #2C363F
-*color8:  #2C363F
+*color8:  #647D90
 ! DarkRed + Red
 *color1:  #FFADAD
 *color9:  #FFADAD
