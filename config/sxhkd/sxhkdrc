@@ -43,10 +43,10 @@ super + Return
 super + d
 	rofi -font "Roboto-Regular 16" -theme term -show drun
 
-super + s
+super + c
 	maim ~/Pictures/shots/$(date +%sshot).png
 	
-super + shift + s
+super + shift + c
 	maim -s | xclip -selection clipboard -t image/png
 
 super + l
