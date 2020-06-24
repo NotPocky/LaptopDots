@@ -8,16 +8,13 @@
 
 # Function keys
 
-XF86AudioPlay
+XF86Search
 	playerctl play-pause
 
-XF86AudioPause
-	playerctl play-pause
-
-XF86AudioNext
+XF86Explorer
 	playerctl next
 
-XF86AudioPrev
+XF86LaunchA
 	playerctl previous
 
 XF86AudioMute
@@ -45,12 +42,12 @@ super + d
 
 super + c
 	maim ~/Pictures/shots/$(date +%sshot).png
-	
+
 super + shift + c
 	maim -s | xclip -selection clipboard -t image/png
 
 super + l
-	betterlockscreen -l
+	light-locker-command -l
 
 # sxhkd
 super + Escape
