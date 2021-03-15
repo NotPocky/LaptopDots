@@ -9,14 +9,18 @@
 * `rofi`
 * `betterlockscreen`
 * `maim`
-* `st`
+  * `xclip` for shot to clipboard
+* `alacritty`
+  * `uberzug` for image previews in ranger
 * `feh`
 * `polybar`
-* [`fs8trg picom fork`](https://www.reddit.com/r/unixporn/comments/fs8trg/oc_comptonpicom_fork_with_both_tryone144s_dual/) for gaussian blur
+  * `tiramisu` for notifications
+  * `jq` for notification formatting
+* [`ibhagwan's picom fork`] (https://github.com/ibhagwan/picom) for window rounded and dual kawase
 * fonts:
   * `font awesome 5` 
-  * `roboto regular` 
-  * `roboto mono`
+  * `SF Pro Display` 
+  * `SF Mono`
 * folders:
   * `~/Pictures/shots`
   * `~/Pictures/wallpapers` see ## walpapers
@@ -25,7 +29,7 @@
   * [`papirus`](https://www.gnome-look.org/p/1166289/)
  
 ### Recomended tools
- * [`alnj's ranger fork`](https://github.com/alnj/ranger)
+ * `ranger`
  * `htop`
  * `neofetch` 
  
