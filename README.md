@@ -11,16 +11,16 @@
 * `maim`
   * `xclip` for shot to clipboard
 * `alacritty`
-  * `uberzug` for image previews in ranger
+  * `uberzug` for image previews in ranger 
 * `feh`
 * `polybar`
   * `tiramisu` for notifications
   * `jq` for notification formatting
-* [`ibhagwan's picom fork`] (https://github.com/ibhagwan/picom) for window rounded and dual kawase
+* `ibhagwan's picom fork` (https://github.com/ibhagwan/picom) for window rounding and dual kawase blur method
 * fonts:
-  * `font awesome 5` 
-  * `SF Pro Display` 
-  * `SF Mono`
+  * `font awesome 5` icons
+  * `SF Pro Display` system font
+  * `SF Mono` terminal font
 * folders:
   * `~/Pictures/shots`
   * `~/Pictures/wallpapers` see ## walpapers
@@ -34,4 +34,5 @@
  * `neofetch` 
  
 ### Wallpapers 
-[gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing)
+[gdrive](https://drive.google.com/drive/folders/1LVlYHzyFQ1vHvHAKT4yWaV4HbF9XLFbX?usp=sharing) (other wallpapers not here are the work of waneella)
+
