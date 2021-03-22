@@ -6,10 +6,11 @@
 
 ### Requirements
 * `bspwm`
+  * `flash-focus` as theres no window borders
 * `sxhkd`
 * `rofi`
 * `betterlockscreen`
-  *`depends on feh iirc`
+  * `depends on feh iirc`
 * `maim`
   * `xclip` for shot to clipboard
 * `alacritty`
