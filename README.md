@@ -20,7 +20,7 @@
   * `jq` for notification formatting
 * `ibhagwan's picom fork` (https://github.com/ibhagwan/picom) for window rounding and dual kawase blur method
 * fonts:
-  * `font awesome 5` icons (youll need the brands ver as well if u want the bluetooth module to even sorta work)
+  * `font awesome 5` icons (you'll need the brands version as well if u want the bluetooth module to even show up)
   * `SF Pro Display` system font
   * `SF Mono` terminal font
 * folders:
@@ -35,5 +35,4 @@
  * `neofetch` 
  
 ### Wallpapers 
-forgive me its just stolen from some 4chan thread.
-
+ see the wallpapers dir in source. Please forgive me, most were pulled from some 4chan thread
