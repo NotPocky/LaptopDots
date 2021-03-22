@@ -6,6 +6,7 @@
 
 ### Requirements
 * `bspwm`
+  *`flash-focus` as theres no window borders
 * `sxhkd`
 * `rofi`
 * `betterlockscreen`
