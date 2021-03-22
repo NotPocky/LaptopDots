@@ -1,29 +1,29 @@
 [colors]
 background = #2C363F
 foreground = #FFFFFC
-primary = #FFADAD
-alert = #FDFF86
+primary = #70C0B1
+alert = #70C0B1
 
-[bar/a]
+[bar/main]
 
-width = 1896
-height = 32
+width = 100%
+height = 36
 
-offset-x = 12
+offset-x = 0
 offset-y = 0
 radius = 0
 
 fixed-center = true
 bottom = false
 
-background = #CC2A2A2E
+background = #B31D1F21
 foreground = ${colors.foreground}
 
 line-size = 0
 line-color = ${colors.primary}
 
 border-size = 0
-border-color = #000000
+border-color = #00000000
 
 padding-left = 2
 padding-right = 2
@@ -31,13 +31,13 @@ padding-right = 2
 module-margin-left = 2.5
 module-margin-right = 2.5
 
-font-0 = Roboto-Regular:pixelsize=16;3
+font-0 = SF Pro Display:pixelsize=16;3
 font-1 = Font Awesome 5 Free Solid:style=Solid:pixelsize=16;3
-font-2 = Font Awesome 5 Brands Regular:style=Solid:pixelsize=16;3
+font-2 = Font Awesome 5 Brands Regular:style=Regular:pixelsize=16;3
 
 modules-left = bspwm
-modules-center = 
-modules-right = wlan batterym backlight pulseaudio date
+modules-center = notif
+modules-right = pia wlan pulseaudio batt backlight date
 
 wm-restack = bspwm
 
@@ -92,8 +92,20 @@ ramp-2 = 
 ramp-3 = 
 ramp-4 = 
 
-[module/batterym]
+[module/batt]
 type = custom/script
-exec = ~/.config/polybar/batt
+exec = ~/.config/polybar/modules/batt
+interval = 60
+
+[module/notif]
+type = custom/script
+exec = ~/.config/polybar/modules/notif
+format = <label>
+label-padding = 1
+tail = true
+
+[module/pia]
+type = custom/script
+exec = ~/.config/polybar/modules/pia
 interval = 60
 

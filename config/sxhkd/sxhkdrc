@@ -25,6 +25,9 @@ XF86AudioRaiseVolume
 
 XF86AudioLowerVolume
 	pamixer -d 5
+XF86AudioMicMute
+	pamixer --default-source -t
+
 
 XF86MonBrightnessUp
 	brightnessctl set +10%
@@ -35,10 +38,10 @@ XF86MonBrightnessDown
 # misc
 
 super + Return
-	st
+	alacritty
 
 super + d
-	rofi -font "Roboto-Regular 16" -theme term -show drun
+	rofi -show drun
 
 super + c
 	maim ~/Pictures/shots/$(date +%sshot).png
@@ -47,7 +50,7 @@ super + shift + c
 	maim -s | xclip -selection clipboard -t image/png
 
 super + l
-	light-locker-command -l
+	betterlockscreen -l	
 
 # sxhkd
 super + Escape
